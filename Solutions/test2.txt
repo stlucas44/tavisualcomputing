@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 	playing around with the exercise anew
+=======
+a new exercise session spawning
+
+edited the exercise
+
+edit again and again
+>>>>>>> 319bcba1dff1342c44cd87c84922adabbf579fd1
